@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 =======
 # 🚢 PortBrain – Reinforcement Learning for Dynamic Ship Handling  
 ### Deep Q-Learning (DQN) for Real-Time Port Optimization
@@ -120,4 +119,3 @@ Parag Shah
 
 Course: Reinforcement Learning – CSCN8020
 Project: PORTBRAIN
->>>>>>> ddb9b26dfddc6046646277ffafc30b614ae34b2f
