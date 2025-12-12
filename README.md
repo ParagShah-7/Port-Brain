@@ -70,6 +70,7 @@ Training progress bar
 
 Cinematic episode summaries
 
+---
 Visual plots
 
 A CSV: portbrain_training_history.csv
