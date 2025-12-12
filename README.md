@@ -100,16 +100,11 @@ PortBrain
 └── images/ (optional plot storage)
 
 📌 Future Improvements
-
-Double DQN
-
-Dueling Networks
-
-Prioritized Experience Replay
-
-Streamlit Real-Time Dashboard
-
-Multi-Agent Port Handling
+  - Double DQN
+  - Dueling Networks
+  - Prioritized Experience Replay
+  - Streamlit Real-Time Dashboard
+  - Multi-Agent Port Handling
 
 👨‍💻 Authors
 
