@@ -1,4 +1,4 @@
-=======
+
 # 🚢 PortBrain – Reinforcement Learning for Dynamic Ship Handling  
 ### Deep Q-Learning (DQN) for Real-Time Port Optimization
 
@@ -69,9 +69,8 @@ python portbrain_dqn.py
     
 Output includes:
 
-Training progress bar
-
-Cinematic episode summaries
+-  Training progress bar
+- Cinematic episode summaries
 
 ---
 Visual plots
@@ -80,36 +79,30 @@ A CSV: portbrain_training_history.csv
 
 📊 Visualisations
 
-The notebook generates 4 plots:
+The notebook generates 3 plots:
 
-Total Reward Over Episodes
+  - Total Reward Over Episodes
 
-Ships Handled vs Remaining
+  - Ships Handled vs Remaining
 
-Epsilon Decay Curve
+  - Epsilon Decay Curve
 
-Average Q-Value Trend
 
 These help analyse learning quality and stability.
 
 📁 Project Structure
-PortBrain/
+PortBrain
 │── portbrain_dqn.py
 │── portbrain_training_history.csv
 │── README.md
 └── images/ (optional plot storage)
 
 📌 Future Improvements
-
-Double DQN
-
-Dueling Networks
-
-Prioritized Experience Replay
-
-Streamlit Real-Time Dashboard
-
-Multi-Agent Port Handling
+  - Double DQN
+  - Dueling Networks
+  - Prioritized Experience Replay
+  - Streamlit Real-Time Dashboard
+  - Multi-Agent Port Handling
 
 👨‍💻 Authors
 
