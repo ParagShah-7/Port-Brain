@@ -64,6 +64,8 @@ Install dependencies:
 pip install torch numpy pandas matplotlib tqdm
 Run the training script:
 python portbrain_dqn.py
+```
+    
 Output includes:
 
 Training progress bar
