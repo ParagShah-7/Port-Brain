@@ -69,9 +69,8 @@ python portbrain_dqn.py
     
 Output includes:
 
-Training progress bar
-
-Cinematic episode summaries
+-  Training progress bar
+- Cinematic episode summaries
 
 ---
 Visual plots
@@ -80,15 +79,14 @@ A CSV: portbrain_training_history.csv
 
 📊 Visualisations
 
-The notebook generates 4 plots:
+The notebook generates 3 plots:
 
-Total Reward Over Episodes
+  - Total Reward Over Episodes
 
-Ships Handled vs Remaining
+  - Ships Handled vs Remaining
 
-Epsilon Decay Curve
+  - Epsilon Decay Curve
 
-Average Q-Value Trend
 
 These help analyse learning quality and stability.
 
