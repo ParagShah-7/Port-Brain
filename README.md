@@ -93,7 +93,7 @@ Average Q-Value Trend
 These help analyse learning quality and stability.
 
 📁 Project Structure
-PortBrain/
+PortBrain
 │── portbrain_dqn.py
 │── portbrain_training_history.csv
 │── README.md
